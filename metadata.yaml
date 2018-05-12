@@ -1,0 +1,38 @@
+_repo: Talks-To-Farmers_42518
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42518-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Spurgeon, C. H. (Charles Haddon)
+    aliases:
+    - Spurgeon, Charles
+    - Spurgeon, Charles Haddon
+    - Spurgeon, Charles H. (Charles Haddon)
+    birthdate: 1834
+    deathdate: 1892
+    gutenberg_agent_id: '41725'
+    url: http://www.gutenberg.org/2009/agents/41725
+description: ''
+gutenberg_issued: '2013-04-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42518'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BR'
+- !lcsh 'Baptists -- Sermons'
+- !lcsh 'Sermons, English -- 19th century'
+tableOfContents: The sluggard's farm -- The broken fence -- Frost and thaw -- The
+  corn of wheat dying to bring forth fruit -- The ploughman -- Ploughing the rock
+  -- The parable of the sower -- The principal wheat -- Spring in the heart -- Farm
+  laborers -- What the farm laborers can do, and what they cannot do -- The sheep
+  before the shearers -- In the hay-field -- The joy of harvest -- Spiritual gleaning
+  -- Meal-time in the cornfields -- The loaded wagon -- Threshing -- Wheat in the
+  barn.
+title: Talks to Farmers
+url: http://www.gutenberg.org/ebooks/42518
